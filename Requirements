@@ -1,0 +1,9 @@
+Requirements:
+Python 3.0 and above
+Keras
+Tenserflow
+Scikit-learn
+Matplotlib/Plotly
+Pandas
+Numpy
+Flask
