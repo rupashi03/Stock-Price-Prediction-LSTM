@@ -4,14 +4,15 @@ This project uses Long Short-Term Memory (LSTM) to predict the stock prices of f
 
 The results from LSTM and ARIMA are compared to evaluate their predictive performance, with the finding that LSTM outperforms ARIMA for this particular use case.
 
-Key Features
-LSTM Model: A deep learning-based model for predicting stock prices using historical data.
-Performance Comparison: To show that LSTM is more accurate than historical models for time series analysis.
+<h3>Key Features</h3>
+<li>LSTM Model: A deep learning-based model for predicting stock prices using historical data.</li>
+<li>Performance Comparison: To show that LSTM is more accurate than historical models for time series analysis.</li>
+<br>
+<h3>Technologies Used</h3>
+<li>Python</li>
+<li>TensorFlow/Keras (for LSTM model)</li>
+<li>Pandas (for data manipulation)</li>
+<li>NumPy (for numerical operations)</li>
+<li>Matplotlib/Plotly (for visualizations)</li>
+<li>Flask (for dashboard)</li>
 
-Technologies Used
-Python
-TensorFlow/Keras (for LSTM model)
-Pandas (for data manipulation)
-NumPy (for numerical operations)
-Matplotlib/Plotly (for visualizations)
-Flask (for dashboard)
