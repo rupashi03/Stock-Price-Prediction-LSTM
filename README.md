@@ -2,7 +2,7 @@
 
 This project uses Long Short-Term Memory (LSTM) to predict the stock prices of five major companies: Microsoft, Tesla, Apple, Tata Beverages, and Facebook. The project demonstrates the use of time series analysis to predict future stock prices based on historical data.
 
-The results from LSTM and ARIMA are compared to evaluate their predictive performance, with the finding that LSTM outperforms ARIMA for this particular use case.
+The results from LSTM is evaluated, its predictive performance measured.
 
 <h3>Key Features</h3>
 <li>LSTM Model: A deep learning-based model for predicting stock prices using historical data.</li>
